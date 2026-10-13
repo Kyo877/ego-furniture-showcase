@@ -23,11 +23,11 @@ This platform bridges the gap between browsing offline material sample books and
 
 ### 1. 🗂️ Interactive Material & Product Catalog
 Structured digital showcase covering core interior and furniture categories:
-- **Sintered Stone (岩板)**
-- **Fluted Panels (格栅板)**
-- **Wallpaper (壁纸)**
-- **Curtains (窗帘)**
-- **Doors (门类) & Bespoke Carpentry**
+- **Sintered Stone**
+- **Fluted Panels**
+- **Wallpaper**
+- **Curtains**
+- **Doors & Bespoke Carpentry**
 
 ### 2. Trilingual Interface (i18n Support)
 - Full multi-language support tailored for the Malaysian market: **English**, **中文 (Chinese)**, and **Bahasa Melayu (Malay)**.
