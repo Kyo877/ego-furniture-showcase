@@ -1,5 +1,3 @@
-# ego-furniture-showcase
-#the website i made with AI to a furniture company
 #  E Go Furniture & Interior Design — Digital Catalog & Web Platform
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Online-success?style=for-the-badge&logo=cloudflare)](https://egofurniture.ego-ykwong077.workers.dev/)
